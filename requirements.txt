@@ -1,0 +1,14 @@
+# CPU-only PyTorch wheel index - keeps EasyOCR's install small by avoiding
+# CUDA/cuDNN packages that are useless on a CPU Space.
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+gradio
+fastapi
+uvicorn
+python-multipart
+PyMuPDF
+opencv-python-headless
+pillow
+numpy
+easyocr
+rembg
