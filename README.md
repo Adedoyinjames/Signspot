@@ -16,9 +16,6 @@ In collaboration with **NORA Research Lab**
 </div>
 
 ---
-
-> **Note for GitHub readers:** the YAML block at the very top of this file is Hugging Face Spaces configuration, not part of the document body. GitHub will render it as plain text above the horizontal rule — that's expected, not a formatting bug.
-
 ## Overview
 
 **SignSpot AI Detection Server** is a lightweight microservice for document workflow automation. It exposes REST API endpoints — plus a minimal Gradio UI for manual testing — that solve two problems:
