@@ -1,22 +1,3 @@
----
-title: SignSpot AI Detection Server
-emoji: ✍️
-colorFrom: blue
-colorTo: indigo
-sdk: docker
-app_port: 7860
-pinned: false
-short_description: PDF signature-field detection and signature background removal via REST API.
-tags:
-- document-processing
-- ocr
-- signature-detection
-- computer-vision
-- fastapi
-- rembg
----
-
-<div align="center">
 
 <img src="https://i.ibb.co/xS72Y4nT/Chat-GPT-Image-Jul-22-2026-12-39-45-AM.png" alt="SignSpot AI Logo" width="220" />
 
