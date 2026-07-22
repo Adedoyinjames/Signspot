@@ -15,7 +15,7 @@ In collaboration with **NORA Research Lab**
 ![Status](https://img.shields.io/badge/status-live-brightgreen)
 ![License](https://img.shields.io/badge/license-unspecified-lightgrey)
 
-**🔗 Live API: [signspot.onrender.com](https://signspot.onrender.com)**
+**🔗 Live API: [https://signspot-frontend.vercel.app](https://signspot-frontend.vercel.app)**
 
 </div>
 
